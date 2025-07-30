@@ -14,7 +14,7 @@ WITH product_returns AS (
 
 ),
 
--- Step 2: Combine all raw KPI metrics into a single CTE.
+-- Step 2: Combine all raw KPI metrics into a single CTE(Common Table Expression).
 -- We use a reference to our existing 'product_kpis' model to avoid repeating code.
 product_all_metrics AS (
 
