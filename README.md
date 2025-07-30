@@ -148,4 +148,4 @@ Key insights covered in the video:
 
 ## Dashboard Preview
 
-![Tableau Dashboard](https://via.placeholder.com/800x400.png?text=Your+Tableau+Dashboard+Screenshot+Here)
+![Tableau Dashboard](https://drive.google.com/file/d/1WivHE1heEBg_-hgtXTrUjoD_ajgv-Uzd/view?usp=sharing)
